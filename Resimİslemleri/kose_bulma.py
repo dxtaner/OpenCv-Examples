@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-resim=cv2.imread('kose_bulma1.jpg')
+resim=cv2.imread('kose_bulma.jpg')
 griton=cv2.cvtColor(resim,cv2.COLOR_BGR2GRAY)
 griton=np.float32(griton)
 
