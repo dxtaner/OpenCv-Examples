@@ -8,7 +8,6 @@ if cat_cascade.empty():
     raise FileNotFoundError("Haar Cascade file not found. Ensure OpenCV's haarcascade_frontalcatface.xml is available.")
 
 # Read input image or video
-# Use an image file (replace 'cat_image.jpg' with your image path)
 image = cv2.imread("cats.png")
 if image is None:
     raise FileNotFoundError("Image not found. Please check the file path.")
