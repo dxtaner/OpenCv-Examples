@@ -28,17 +28,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Pedestrian_Detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.camset.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cascade_detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cascade_download.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Pedestrian_Detection.executor": "Run",
+    "Python.camset.executor": "Run",
+    "Python.cascade_detection.executor": "Run",
+    "Python.cascade_download.executor": "Run",
+    "Python.watershed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Asus/Documents/GitHub/OpenCv-Examples/Examples/Watershed"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.watershed">
     <configuration name="Pedestrian_Detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Examples" />
