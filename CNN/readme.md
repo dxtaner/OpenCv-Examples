@@ -43,6 +43,8 @@ Install with:
 🧪 Example
 ----------
 
+![MNIST Prediction Demo](https://github.com/dxtaner/OpenCv-Examples/blob/main/CNN/MnistPredict.gif)
+
 
 🧠 Model Info
 -------------
